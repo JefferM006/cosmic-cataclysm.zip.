@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "cosmic_cataclysm",
+  "version": "${version}",
+  "name": "Cosmic Cataclysm",
+  "description": "Se abre el cielo, aparece un sistema solar, los planetas se destruyen y sus pedazos caen como meteoros gigantes sobre la tierra.",
+  "authors": ["Tu nombre"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.cosmiccataclysm.CosmicCataclysm"],
+    "client": ["com.cosmiccataclysm.client.CosmicCataclysmClient"]
+  },
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

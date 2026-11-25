@@ -1,0 +1,6 @@
+{
+  "item.cosmic_cataclysm.cosmic_remote": "Control Cósmico",
+  "item.cosmic_cataclysm.cosmic_remote.tooltip": "Clic derecho para abrir el cielo",
+  "entity.cosmic_cataclysm.meteor": "Meteoro",
+  "commands.cosmic_cataclysm.started": "El cielo se está abriendo..."
+}

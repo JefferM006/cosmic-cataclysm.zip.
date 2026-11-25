@@ -1,0 +1,6 @@
+{
+  "item.cosmic_cataclysm.cosmic_remote": "Cosmic Remote",
+  "item.cosmic_cataclysm.cosmic_remote.tooltip": "Right-click to tear open the sky",
+  "entity.cosmic_cataclysm.meteor": "Meteor",
+  "commands.cosmic_cataclysm.started": "The sky is opening..."
+}
